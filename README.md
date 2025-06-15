@@ -42,7 +42,7 @@ A secure chat system which implements PKI (Public Key Infrastructure) authentica
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Undead6687/secure-pki-chat
    cd secure-chat-system
    ```
 
